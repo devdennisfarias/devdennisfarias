@@ -2,8 +2,12 @@
 
 ##
 
-## Eu sou o Dennis Farias - </ Programador FULL Stack e Perito Forense Computacional! />
+<div align="center">
 
+### Eu sou o Dennis Farias </br>
+
+### </ Programador FULL Stack e Perito Forense Computacional! />
+</div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dennis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Dennis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
