@@ -1,4 +1,7 @@
 ### Olá, seja muito bem vindo(a) ao meu Git.</br>
+
+##
+
 ## Eu sou o Dennis Farias - </ Programador FULL Stack e Perito Forense Computacional! />
 
 <div style="display: inline_block" align="center"><br>
@@ -15,7 +18,9 @@
   <img align="center" alt="Dennis-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
-  ##
+ 
+ ##
+ 
  
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/dennisfarias"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
