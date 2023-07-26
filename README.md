@@ -6,7 +6,7 @@
 
 # Eu sou o Dennis Farias </br>
 
-### </ Programador FULL Stack e Perito Forense Computacional! />
+### </ Programador FULL Stack Sênior />
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dennis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
